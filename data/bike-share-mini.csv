@@ -1,0 +1,16 @@
+station_id,station_name,district,bikes_available,last_updated
+101,Praterstern,Leopoldstadt,8,2026-03-01
+102,Schwedenplatz,Innere Stadt,5,2026-03-01
+103,Hauptbahnhof,Favoriten,12,01.03.2026
+104,Karlsplatz,Wieden,3,2026-03-02
+105,Westbahnhof,neubau,7,2026-03-02
+106,Rathaus,JOSEFSTADT,4,2026-03-02
+107,Volkstheater,Neubau,6,02.03.2026
+108,Stephansplatz,Innere Stadt,several,2026-03-03
+109,Alserbachstrasse,Alsergrund,9,2026-03-03
+110,Reumannplatz,Favoriten,2,2026-03-03
+111,Meidling Hauptstrasse,Meidling,5,2026-03-04
+112,Hietzing,Hietzing,n/a,2026-03-04
+113,Ottakring,Ottakring,10,04.03.2026
+114,Hernalser Hauptstrasse,Hernals,3,2026-03-05
+115,Waehringer Strasse,Waehring,6,2026-03-05
