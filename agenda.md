@@ -39,7 +39,7 @@ sequence and exercises stay the same either way.
 
 ## 3. Module details, with learning material
 
-### Module 0 — Setup & why version control
+### Module 0 — Setup & Why Version Control
 
 **Concepts:** what version control solves, local vs. remote repos, Git vs. GitHub, the
 `git` command line vs. GitHub's web UI.
@@ -63,7 +63,7 @@ sequence and exercises stay the same either way.
 
 ---
 
-### Module 1 — Git fundamentals (local)
+### Module 1 — Git Fundamentals (Working Locally)
 
 **Concepts:** repository, working directory / staging area / commit history, the commit
 as a snapshot, `.gitignore`.
@@ -82,7 +82,7 @@ commits with meaningful messages, and inspects history with `git log --oneline`.
 
 ---
 
-### Module 2 — Branching & merging
+### Module 2 — Branching & Merging
 
 **Concepts:** branches as pointers, why branch per feature/task, fast-forward vs. merge
 commits, resolving conflicts.
@@ -100,7 +100,7 @@ experienced live rather than described.
 
 ---
 
-### Module 3 — GitHub basics: remotes & collaboration surface
+### Module 3 — GitHub Basics: Remotes, Clone, Push & Pull
 
 **Concepts:** local repo vs. remote (GitHub), `clone` vs `init` + `remote add`, `push`/`pull`,
 forking, README files, GitHub-flavoured Markdown.
@@ -114,7 +114,7 @@ personal branch, edits a data file and the README, commits, and pushes their bra
 
 ---
 
-### Module 4 — Collaboration workflow: Issues & Pull Requests
+### Module 4 — Collaboration: Issues, Pull Requests & Code Review
 
 **Concepts:** Issues for tracking work, Pull Requests as the review/discussion unit, the
 GitHub Flow (branch → commit → PR → review → merge), requesting and giving reviews.
@@ -129,7 +129,7 @@ the issue, and another intern reviews and approves it.
 
 ---
 
-### Module 5 — Working with real open data
+### Module 5 — Working with Open Data
 
 This is where the course becomes ODON-specific. Interns apply everything so far to a
 dataset similar to the ones ODON already publishes (bike share, street safety, mobility data).
