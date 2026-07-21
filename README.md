@@ -7,7 +7,7 @@ happens in a separate, private practice repository (see below).
 
 ## Who this is for
 
-ODON interns and members with no assumed prior Git experience. The course runs as six
+ODON interns and members with no assumed prior Git experience. The course runs as five
 ~90-minute sessions, one per week, but can be compressed or stretched to fit a different
 format — see [`agenda.md`](agenda.md) for the full rationale, schedule, and facilitator
 notes.

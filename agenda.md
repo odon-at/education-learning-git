@@ -11,7 +11,7 @@ GitHub organisation ([github.com/odon-at](https://github.com/odon-at)) and real 
 projects (the Jekyll website, data pipelines, dashboards) — not just recite commands.
 
 **Assumptions (adjust as needed):**
-- 6 sessions, ~90 minutes each, one per week, small group (2–6 people), in person or hybrid.
+- 5 sessions, ~90 minutes each, one per week, small group (2–6 people), in person or hybrid.
 - No prior Git experience assumed. Some participants may know spreadsheets/basic scripting, not more.
 - Delivered live with a facilitator, but every session leaves behind self-paced material so
   it also works as an **asynchronous track for members** who can't attend live.
@@ -33,7 +33,6 @@ sequence and exercises stay the same either way.
 | 3 | GitHub basics | remotes, clone, push/pull, README, Markdown | 90 min |
 | 4 | Collaboration workflow | Issues, Pull Requests, code review, GitHub Flow | 90 min |
 | 5 | Working with open data | real dataset exercise in the practice repo | 90 min |
-| 6 | Capstone + stretch topics | small real contribution, optional: Actions, Pages | 90–120 min |
 
 ---
 
@@ -149,22 +148,6 @@ dataset similar to the ones ODON already publishes (bike share, street safety, m
 
 ---
 
-### Module 6 — Capstone + stretch topics
-
-**Capstone:** each intern makes one real, small contribution to an actual ODON repository
-(e.g. a typo fix or content update on the Jekyll website, or a data file in a real project),
-through a proper PR that a board member or mentor reviews and merges.
-
-**Stretch topics (optional, for members or interns who want more):**
-- Rebasing and cleaning up commit history — [Learn Git Branching](https://learngitbranching.js.org/) "Rebase" sequence
-- GitHub Actions basics (relevant since ODON's Google Forms → Sheet workflow could eventually
-  be complemented by automation) — [GitHub Skills catalogue](https://github.com/skills)
-- GitHub Pages / Jekyll specifics, since that's literally what odon.at runs on —
-  [GitHub Docs: GitHub Pages](https://docs.github.com/en/pages)
-- [GitHub Copilot Bootcamp](https://github.com/skills) style courses, if AI-assisted coding is of interest later
-
----
-
 ## 4. The practice repository
 
 The dedicated, low-stakes practice repo already exists in the `odon-at` organisation, separate
@@ -236,7 +219,7 @@ from production repos, so interns can safely break things:
 
 ---
 
-## 5. Suggested schedule (6 weeks, 90 min/session)
+## 5. Suggested schedule (5 weeks, 90 min/session)
 
 | Week | Module | Homework before next session |
 |------|--------|-------------------------------|
@@ -244,8 +227,7 @@ from production repos, so interns can safely break things:
 | 2 | 2: Branching & merging | Finish `Learn Git Branching` branching levels |
 | 3 | 3: GitHub basics | Complete GitHub Skills "Introduction to GitHub" |
 | 4 | 4: Issues & PRs | Complete GitHub Skills "Communicate using Markdown" |
-| 5 | 5: Open data exercise | Draft their capstone PR |
-| 6 | 6: Capstone review + stretch topics | — |
+| 5 | 5: Open data exercise | — |
 
 ---
 
